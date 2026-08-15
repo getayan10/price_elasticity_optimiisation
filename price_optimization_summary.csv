@@ -1,0 +1,10 @@
+Category,Baseline Price,Optimal Price (P*),Recommended Price Change %,Baseline Revenue,Max Revenue,Projected Revenue Lift %
+bed_bath_table,78.63,98.29,25.0,1322.52,1907.86,44.26
+computers_accessories,119.48,149.35,25.0,2020.81,2735.11,35.35
+consoles_games,27.03,20.28,-25.0,293.69,420.68,43.24
+cool_stuff,107.86,134.82,25.0,1055.87,1364.06,29.19
+furniture_decor,60.15,75.19,25.0,1120.37,1502.58,34.11
+garden_tools,80.09,100.12,25.0,1200.42,1246.44,3.83
+health_beauty,132.31,165.39,25.0,1874.73,2269.87,21.08
+perfumery,89.35,111.69,25.0,838.5,919.02,9.6
+watches_gifts,164.88,206.1,25.0,2290.71,2650.34,15.7

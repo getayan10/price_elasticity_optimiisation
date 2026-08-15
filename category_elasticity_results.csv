@@ -1,0 +1,10 @@
+Category,Elasticity (beta_1),P-Value,R-Squared,Demand Sensitivity
+bed_bath_table,0.6422,0.0229,0.1493,Inelastic
+computers_accessories,0.3564,0.4964,0.0416,Inelastic
+consoles_games,-2.2492,0.0162,0.363,Elastic
+cool_stuff,0.1477,0.6741,0.0166,Inelastic
+furniture_decor,0.3154,0.4418,0.0723,Inelastic
+garden_tools,-0.8314,0.0,0.1754,Inelastic
+health_beauty,-0.1429,0.0906,0.0348,Inelastic
+perfumery,-0.5891,0.1616,0.1794,Inelastic
+watches_gifts,-0.3465,0.1782,0.0392,Inelastic
